@@ -1,0 +1,12 @@
+Github - KhomyakDevelopment - https://github.com/KomyakDevelopment
+
+This is not required for the server to work but i recommend it for you who are new to creating FiveM servers.
+Put all your resources inside this file [base] and don't touch the [core] file if you are not absolutely sure
+that you can manage to without ruining your files. I recommend doing backups regularly.
+
+Altough this is not recommended for new FiveM Developers i will still list some guides below.
+
+REF: How to add resources - https://www.youtube.com/watch?v=Uq28Ofyfebs
+REF: Guide from zzazuuu - https://github.com/zzazuu/ESXBase-server#installation
+
+Note: You may delete this and the README.txt file at any moment.
