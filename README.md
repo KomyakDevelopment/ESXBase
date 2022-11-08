@@ -28,3 +28,5 @@ Please remove it if you are not in need of it. (Not recommended)
 - Essentialmode https://essentialmode.com
 - ESX https://github.com/ESX-Org
 - Kashzin https://github.com/KASHZIN/kashacters 
+
+https://github.com/KomyakDevelopment/ESXBase
