@@ -28,5 +28,6 @@ Please remove it if you are not in need of it. (Not recommended)
 - Essentialmode https://essentialmode.com
 - ESX https://github.com/ESX-Org
 - Kashzin https://github.com/KASHZIN/kashacters 
+- Artifacts https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/
 
 https://github.com/KomyakDevelopment/ESXBase
