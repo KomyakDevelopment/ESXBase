@@ -6,7 +6,7 @@ This is a modified version of the https://github.com/zzazuu/ESXBase-server
 All basic resources have been deleted and its only the basic needs to run an ESX Server.
 This almost nothing and its made for you who might want to create your own base from the ground.
 
-Im not providing any support for this, please check out the reffered link if you're having problems. REF: https://forum.fivem.net/
+Im not providing any support for this, please check out the reffered link if you're having problems. REF: https://forum.fivem.net
 
 # Requirements
 - Make sure you have installed Visual C++ redistributable. https://aka.ms/vs/16/release/VC_redist.x64.exe
